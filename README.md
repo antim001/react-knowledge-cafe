@@ -8,7 +8,7 @@ Introducing Knowledge Cafe, a React-based platform empowering users to seamlessl
 
 https://react-knowledge-cafe-antim.netlify.app/
 
-![](src/assests/images/Capture.JPG)
+![](img/Capture.JPG)
 
 ## Deployment
 
